@@ -1,0 +1,19 @@
+.btn-outline-light{
+    color: rgb(25, 25, 25);
+}
+.btn-outline-light:hover{
+    color: rgb(141, 141, 141);
+}
+.container{
+    background-color: aqua;
+}
+.row{
+    border: 5px solid black;
+}
+.allCol{
+    border: 5px solid mediumvioletred;
+    padding: 10px;
+}
+.navbar{
+    background-color: orangered;
+}
